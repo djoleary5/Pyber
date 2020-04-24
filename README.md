@@ -15,3 +15,11 @@ Three pie charts:
 * % of Total Fares by City Type
 * % of Total Rides by City Type
 * % of Total Drivers by City Type
+
+## Conclusions
+
+* The highest average fares are in rural and suburban cities. This makes sense as destinations would be farther apart in those regions (longer rides lead to higher fares).
+
+* There are also fewer rides and drivers per city than urban cities(supply/demand) which would contriute to the higher fares.
+
+* The overwhelming majority of total fares, rides, and drivers are in urban cities. Reasons for this would probably be higher demand, as less people own cars and the shorter rides would yeild more affordable fares.
